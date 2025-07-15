@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MindM8 – Account Deletion Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: 50px auto;
+      padding: 20px;
+      background-color: #f9f9f9;
+      color: #333;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #111;
+    }
+    code {
+      background-color: #eee;
+      padding: 3px 6px;
+      border-radius: 4px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>MindM8 – Account Deletion Policy</h1>
+
+  <p>This page explains how users of <strong>MindM8</strong> can permanently delete their account and all associated data.</p>
+
+  <h2>👤 App & Developer Info</h2>
+  <p><strong>App:</strong> MindM8 – AI Journaling Bestie<br>
+     <strong>Developer:</strong> Oryvo AI</p>
+
+  <h2>🗑️ How to Delete Your Account</h2>
+  <p>You can delete your account at any time by requesting thorugh email:</p>
+  <ol>
+    <li>Users just need to send an email with acount deletion request to oryvoai@gmail.conm</li>
+    <li>A Delete acount button will be introduced soon within the app</li>
+  </ol>
+
+  <h2>💥 What Happens When You Delete Your Account</h2>
+  <ul>
+    <li>Your account is permanently deleted from our Firebase Authentication system</li>
+    <liAll chat entries, GPT conversations, and personal data are deleted from Firestore</li>
+    <li>You will lose all progress and saved content</li>
+  </ul>
+
+  <h2>⏳ Processing Time</h2>
+  <p>Account deletion requests are typically processed within <strong>24-72 hours</strong> of submission.</p>
+
+  <h2>📬 Need Help?</h2>
+  <p>If you’re unable to access the app or facing issues, email us at: <strong>oryvoai@gmail.com</strong></p>
+</body>
+</html>
